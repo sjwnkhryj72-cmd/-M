@@ -1,1 +1,4 @@
-
+python-telegram-bot
+moviepy
+imageio==2.14.1
+imageio-ffmpeg
